@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/1dev-hridoy/Suika-Cloud"><img src="https://img.shields.io/github/stars/1dev-hridoy/Suika-Cloud?color=green" /></a>
-  <a href="https://github.com/1dev-hridoy/Suika-Cloud/issues"><img src="https://img.shields.io/github/issues/1dev-hridoy/Suika-Cloud?color=red" /></a>
-  <a href="https://github.com/1dev-hridoy/Suika-Cloud"><img src="https://img.shields.io/github/license/1dev-hridoy/Suika-Cloud?color=blue" /></a>
+  <a href="https://github.com/frnwot/Suika-Cloud"><img src="https://img.shields.io/github/stars/1dev-hridoy/Suika-Cloud?color=green" /></a>
+  <a href="https://github.com/frnwot/Suika-Cloud/issues"><img src="https://img.shields.io/github/issues/1dev-hridoy/Suika-Cloud?color=red" /></a>
+  <a href="https://github.com/frnwot/Suika-Cloud"><img src="https://img.shields.io/github/license/1dev-hridoy/Suika-Cloud?color=blue" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/node/v/latest?color=purple" /></a>
-  <a href="https://github.com/1dev-hridoy/Suika-Cloud/actions"><img src="https://img.shields.io/badge/build-passing-yellowgreen" /></a>
+  <a href="https://github.com/frnwot/Suika-Cloud/actions"><img src="https://img.shields.io/badge/build-passing-yellowgreen" /></a>
 </p>
 
 
@@ -40,7 +40,7 @@ Suika Cloud is an open-source bot designed to enhance Messenger group chats with
 1.  **Clone the Repository**:
     
     ```bash
-    git clone https://github.com/1dev-hridoy/Suika-Cloud.git
+    git clone https://github.com/frnwot/Suika-Cloud.git
     cd Suika-Cloud
     
     ```
@@ -81,7 +81,7 @@ Suika Cloud is an open-source bot designed to enhance Messenger group chats with
 5.  **Run the Bot**:
     
     ```bash
-    node .
+    node . && npm start 
     
     ```
     
@@ -206,9 +206,8 @@ module.exports.run = async ({ api, event }) => {
 
 ## Support & Contact
 
--   **Developer**: Farhan (frnwot)
-    -   **Facebook**: [https://www.facebook.com/1dev.hridoy/](https://www.facebook.com/1dev.hridoy/)
--   **Email**: [bgmohammedhridoy@gmail.com](mailto:bgmohammedhridoy@gmail.com) (replace with actual email)
+-   **Developer**: Farhan (frnwot))
+-   **Email**: [frnbuid2005@gmail.com](frnbuid2005@gmail.com) (replace with actual email)
 -   **Messenger**: [Contact Support](https://www.facebook.com/share/16qhzjMzkX//)
 -   **Telegram**: [Join Telegram](https://t.me/Farhan_muh_tasim)
 
