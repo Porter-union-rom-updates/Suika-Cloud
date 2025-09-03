@@ -1,0 +1,26 @@
+{
+  "botName": "Keji Cloud",
+  "prefix": "!",
+  "botpicture": "https://i.ibb.co/Xxmdjjfm/Flux-Dev-cinematic-keyframe13-anime-keyframe12-Animestyle-port-2.jpg",
+  "ownerName": "Farhan",
+  "ownerUID": "61575746590997",
+  "adminUIDs": [
+    "61575746590997",
+    "admin_uid_2",
+    "your_uid_here",
+    "12"
+  ],
+  "language": "bn",
+  "database": {
+    "type": "json",
+    "autoSave": true,
+    "backupInterval": 3600000
+  },
+  "adminOnlyMode": false,
+  "features": {
+    "autoRestart": true,
+    "cooldown": true,
+    "logging": true
+  },
+  "supportGC": "23875159305442595"
+}
